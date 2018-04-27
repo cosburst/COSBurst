@@ -27,8 +27,9 @@ To use the software, you must run an executable file called **"cosburst"**. Then
 **[Example]** To get to the device in the local network, just enter:
 
 **http://192.168.1.56:8080**
-login: admin
-pass: admin
+
+**login:** admin
+**pass:** admin
 
 The username, password, ip address, etc. can be changed in the settings in the file **"mining.conf"**.
 
