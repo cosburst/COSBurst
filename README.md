@@ -9,11 +9,13 @@
 - Search engine for multiple mining equipment in the local network
 - Information on the exchange rate of cryptocurrencies on the stock exchange
 - Information about your account's balance converted at current rates
+- OS: Linux, Windows
 
 # Soon
 
-- **Web Manager for online management of mining equipment via a global network**
-- **Preview of software work from the console level and online command terminal**
+- **Web Manager: Online management of mining equipment via a global network**
+- **Web Manager: GPU Plot Generator**
+- **Web Manager: Preview of software work from the console level and online command terminal**
 
 # Instructions
 
