@@ -21,6 +21,16 @@
 
 **COSBurst** was built on the basis of creepMiner software. All you need to do is use the configuration in the **mining.conf** file. [Miner installation instructions.](https://github.com/Creepsky/creepMiner/wiki/Setting-up-the-miner)
 
+To use the software, you must run an executable file called **"cosburst"**. Then open the web browser and enter the IP address + port number of your mining device. **The default software is running on the device at http://127.0.0.1:8080**.
+  
+**[Example]** To get to the device in the local network, just enter:
+
+**http://192.168.1.56:8080
+login: admin
+pass: admin**
+
+The username, password, ip address, etc. can be changed in the settings in the file **"mining.conf"**.
+
 
 # Screenshot
 
