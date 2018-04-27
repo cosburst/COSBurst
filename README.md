@@ -28,7 +28,7 @@
 ## COSBurst: Dashboard
 ![2](https://user-images.githubusercontent.com/38781791/39360296-014254a2-4a1e-11e8-94b6-89298df3242a.jpg)
 
-## [Screenshot] COSBurst: Disk Plots
+## COSBurst: Disk Plots
 ![4](https://user-images.githubusercontent.com/38781791/39360464-aa876534-4a1e-11e8-9269-b9c09344bde3.jpg)
 
 ## COSBurst: Settings
