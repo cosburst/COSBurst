@@ -14,3 +14,7 @@ COSBurst is a tool for miners to mining Burstcoin cryptocurrency. The software s
 
 - **Web Manager for online management of mining equipment via a global network**
 - **Preview of software work from the console level and online command terminal**
+
+# Instructions
+
+COSBurst was built on the basis of creepMiner software. All you need to do is use the configuration in the **mining.conf** file. [Miner installation instructions.](https://github.com/Creepsky/creepMiner/wiki/Setting-up-the-miner)
