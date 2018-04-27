@@ -1,5 +1,5 @@
 # COSBurst
-COSBurst is a tool for miners to mining Burstcoin cryptocurrency. The software supports CPU and GPU. More information at cosburst@gmail.com. 
+**COSBurst** is a tool for miners to mining Burstcoin cryptocurrency. The software supports CPU and GPU. More information at cosburst@gmail.com. 
 
 # Features
 
@@ -17,4 +17,4 @@ COSBurst is a tool for miners to mining Burstcoin cryptocurrency. The software s
 
 # Instructions
 
-COSBurst was built on the basis of creepMiner software. All you need to do is use the configuration in the **mining.conf** file. [Miner installation instructions.](https://github.com/Creepsky/creepMiner/wiki/Setting-up-the-miner)
+**COSBurst** was built on the basis of creepMiner software. All you need to do is use the configuration in the **mining.conf** file. [Miner installation instructions.](https://github.com/Creepsky/creepMiner/wiki/Setting-up-the-miner)
