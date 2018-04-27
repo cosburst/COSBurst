@@ -18,3 +18,8 @@
 # Instructions
 
 **COSBurst** was built on the basis of creepMiner software. All you need to do is use the configuration in the **mining.conf** file. [Miner installation instructions.](https://github.com/Creepsky/creepMiner/wiki/Setting-up-the-miner)
+
+
+# Screenshot
+## COSBurst: Login
+![1](https://user-images.githubusercontent.com/38781791/39360131-404a6014-4a1d-11e8-9d95-0f77e78e0bcc.jpg)
