@@ -21,5 +21,9 @@
 
 
 # Screenshot
+
 ## COSBurst: Login
 ![1](https://user-images.githubusercontent.com/38781791/39360131-404a6014-4a1d-11e8-9d95-0f77e78e0bcc.jpg)
+
+## COSBurst: Dashboard
+![2](https://user-images.githubusercontent.com/38781791/39360296-014254a2-4a1e-11e8-94b6-89298df3242a.jpg)
