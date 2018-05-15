@@ -9,7 +9,7 @@
 - Search engine for multiple mining equipment in the local network
 - Information on the exchange rate of cryptocurrencies on the stock exchange
 - Information about your account's balance converted at current rates
-- OS: Linux, Windows
+- OS: Linux, Windows(soon)
 
 # Soon
 
