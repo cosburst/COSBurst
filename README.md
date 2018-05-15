@@ -1,6 +1,10 @@
 # COSBurst - Tools for Miners
 **COSBurst** is a tool for miners to mining **Burstcoin** cryptocurrency. The software **supports CPU and GPU.** More information at cosburst@gmail.com. 
 
+Donate: **BURST-DXGG-ZQLU-SPWC-5W3D3**
+
+**Thank you for your support :)**
+
 # Features
 
 - **CPU** (__SSE2__/__SSE4__/__AVX__/__AVX2__) or **GPU** (__OpenCL__, __CUDA__)
